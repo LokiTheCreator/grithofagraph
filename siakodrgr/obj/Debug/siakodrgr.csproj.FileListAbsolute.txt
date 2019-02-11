@@ -1,0 +1,36 @@
+D:\Study\Сиакод\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe.config
+D:\Study\Сиакод\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe
+D:\Study\Сиакод\siakodrgr\siakodrgr\bin\Debug\siakodrgr.pdb
+D:\Study\Сиакод\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csprojResolveAssemblyReference.cache
+D:\Study\Сиакод\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Form1.resources
+D:\Study\Сиакод\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Properties.Resources.resources
+D:\Study\Сиакод\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csproj.GenerateResource.Cache
+D:\Study\Сиакод\siakodrgr\siakodrgr\obj\Debug\siakodrgr.exe
+D:\Study\Сиакод\siakodrgr\siakodrgr\obj\Debug\siakodrgr.pdb
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe.config
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\obj\Debug\siakodrgr.exe
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\obj\Debug\siakodrgr.pdb
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\bin\Debug\siakodrgr.pdb
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csprojResolveAssemblyReference.cache
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Form1.resources
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Properties.Resources.resources
+C:\Users\Миша\Downloads\siakodrgr (1)\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csproj.GenerateResource.Cache
+D:\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe.config
+D:\siakodrgr\siakodrgr\obj\Debug\siakodrgr.exe
+D:\siakodrgr\siakodrgr\obj\Debug\siakodrgr.pdb
+D:\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csprojResolveAssemblyReference.cache
+D:\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Form1.resources
+D:\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Properties.Resources.resources
+D:\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csproj.GenerateResource.Cache
+D:\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe
+D:\siakodrgr\siakodrgr\bin\Debug\siakodrgr.pdb
+D:\Study\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe.config
+D:\Study\siakodrgr\siakodrgr\obj\Debug\siakodrgr.exe
+D:\Study\siakodrgr\siakodrgr\obj\Debug\siakodrgr.pdb
+D:\Study\siakodrgr\siakodrgr\bin\Debug\siakodrgr.exe
+D:\Study\siakodrgr\siakodrgr\bin\Debug\siakodrgr.pdb
+D:\Study\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csprojResolveAssemblyReference.cache
+D:\Study\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Form1.resources
+D:\Study\siakodrgr\siakodrgr\obj\Debug\siakodrgr.Properties.Resources.resources
+D:\Study\siakodrgr\siakodrgr\obj\Debug\siakodrgr.csproj.GenerateResource.Cache
